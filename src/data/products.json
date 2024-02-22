@@ -3,54 +3,62 @@
         "id": 1,
         "title": "tostadas sin tacc",
         "description": "saladas/dulces",
-        "price": 450,
-        "thumbnail": "Link de la foto",
         "code": "code1",
-        "stock": 12
+        "price": 450,
+        "status": true,
+        "stock": 12,
+        "category": "alimentos",
+        "thumbnail": "Link de la foto"
+        
     },
     {
-        "id": 2,
         "title": "Tostadas de arroz",
         "description": "Sabor jamón",
-        "price": 550,
-        "thumbnail": "Link de la foto",
         "code": "code2",
-        "stock": 15
+        "price": 550,
+        "status": true,
+        "stock": 15,
+        "category": "alimentos",
+        "thumbnail": "Link de la foto"
     },
     {
-        "id": 3,
         "title": "Tostadas de mesa",
         "description": "dulces/saladas",
-        "price": 490,
-        "thumbnail": "Link de la foto",
         "code": "code3",
-        "stock": 19
+        "price": 490,
+        "status": true,
+        "stock": 19,
+        "category": "alimentos",
+        "thumbnails": "Link de la foto"
     },
     {
-        "id": 4,
         "title": "Tostadas de arroz",
         "description": "Sabor queso",
-        "price": 550,
-        "thumbnail": "Link de la foto",
         "code": "code4",
-        "stock": 25
+        "price": 550,
+        "status": true,
+        "stock": 25,
+        "category": "alimentos",
+        "thumbnails": "Link de la foto"
     },
     {
-        "id": 5,
         "title": "Galletitas dulces",
         "description": "Con frutos secos",
-        "price": 650,
-        "thumbnail": "Link de la foto",
         "code": "code5",
-        "stock": 4
+        "price": 650,
+        "status": true,
+        "stock": 4,
+        "category": "alimentos",
+        "thumbnails": "Link de la foto"
     },
     {
-        "id": 6,
         "title": "Galletitas dulces",
         "description": "Con pasas",
-        "price": 650,
-        "thumbnail": "Link de la foto",
         "code": "code6",
-        "stock": 0
+        "price": 650,
+        "status": true,
+        "stock": 0,
+        "category": "alimentos",
+        "thumbnails": "Link de la foto"
     }
 ]
